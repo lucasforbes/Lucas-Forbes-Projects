@@ -18,7 +18,7 @@ Fall Semester 2018
 Spring Semester 2019 
 * Study Abroad in Maastricht, Netherlands
 
-Fall Semester 2018  
+Fall Semester 2019  
 * B351 Introduction to Artificial Intelligence (Python)    
 * B365 Data Analysis and Mining (R)
 * B401 Fundamentals of Computing Science
