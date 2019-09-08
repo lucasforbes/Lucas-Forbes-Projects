@@ -19,10 +19,10 @@ Spring Semester 2019
 Study Abroad in Maastricht, Netherlands
 
 Fall Semester 2019
-B351 Introduction to Artificial Intelligence
-B365 Data Analysis and Mining
+B351 Introduction to Artificial Intelligence (Python)
+B365 Data Analysis and Mining (R)
 B401 Fundamentals of Computing Science
-F455 Financial Data Analytics with Python
+F455 Financial Data Analytics with Python (Python)
 
 
 
