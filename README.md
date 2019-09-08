@@ -15,15 +15,14 @@ C291 System Programming with C and UNIX
 A290 Tools for Computing (CGI/PHP)  
 C343 Data Structures (Java)
 
-Spring Semester 2019
-Study Abroad in Maastricht, Netherlands
+Spring Semester 2019 
+Study Abroad in Maastricht, Netherlands 
 
-Fall Semester 2019
-B351 Introduction to Artificial Intelligence (Python)
-B365 Data Analysis and Mining (R)
+Fall Semester 2018  
+B351 Introduction to Artificial Intelligence (Python) 
+B365 Data Analysis and Mining (R)  
 B401 Fundamentals of Computing Science
 F455 Financial Data Analytics with Python (Python)
-
 
 
 ### To view my work please click the "View Project on GitHub" link in the top right corner
