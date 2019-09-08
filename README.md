@@ -1,7 +1,3 @@
-# Lucas-Forbes-Projects
-Projects and assignments completed or collaborated on by Lucas Forbes
-
-
 ### Welcome to Lucas Forbes's GitHub Page.
 My name is Lucas Forbes and I am currently a senior at Indiana University studying Finance at the Kelley School of Business and Computer Science at the School of Informatics, Computing, and Engineering.  
 Here you will find all of the projects and assignments I have completed so far at Indiana University
