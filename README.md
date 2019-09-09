@@ -1,5 +1,6 @@
 ### Welcome to Lucas Forbes's GitHub Page.
 My name is Lucas Forbes and I am currently a junior at Indiana University studying Finance at the Kelley School of Business and Computer Science at the School of Informatics, Computing, and Engineering.  
+
 Here you will find all of the projects and assignments I have completed so far at Indiana University
 
 ### The classes I have completed or am currently enrolled in in are:
