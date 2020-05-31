@@ -25,6 +25,12 @@ Fall Semester 2019
 * B401 Fundamentals of Computing Science
 * F455 Financial Data Analytics with Python (Python) 
 
+Spring Semester 2020
+* B455 Intro To Machine Learning (Python)
+* B355 Autonomous Robots
+* B490 Quantum Programming
+* A290 Intro to SQL
+
 
 
 ### To view my work please click the "View Project on GitHub" link in the top right corner
