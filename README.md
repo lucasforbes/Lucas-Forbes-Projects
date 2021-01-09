@@ -15,6 +15,8 @@ Fall Semester 2018
 * C291 System Programming (C and UNIX) 
 * A290 Tools for Computing (CGI/PHP)  
 * C343 Data Structures (Java)
+* A290 Tools for Computing (IOS Develop
+ment)
 
 Spring Semester 2019 
 * Study Abroad in Maastricht, Netherlands
@@ -29,8 +31,18 @@ Spring Semester 2020
 * B455 Intro To Machine Learning (Python)
 * B355 Autonomous Robots
 * B490 Quantum Programming
-* A290 Intro to SQL
+* A290 Tools for Computing (Intro to SQL)
 
+Fall Semester 2020  
+* C323 Android App Development (Java)
+* B363 Bioinformatics Algorithms (Python)
+* S350 Intro to Statistical Inference (R)
+* P556 Applied Machine Learning (Python)
 
+Spring Semester 2021
+* B505 Applied Algorithms
+* B659 Applying Machine Learning Techniques in Computational Linguistics
+* B551 Elements of Artificial Intelligence
+* I590 AI and the Future of Work
 
 ### To view my work please click the "View Project on GitHub" link in the top right corner
