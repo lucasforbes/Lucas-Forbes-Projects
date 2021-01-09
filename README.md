@@ -1,5 +1,5 @@
 ### Welcome to Lucas Forbes's GitHub Page.
-My name is Lucas Forbes and I am currently a Senior at Indiana University studying Finance at the Kelley School of Business and Computer Science at the School of Informatics, Computing, and Engineering.  
+My name is Lucas Forbes and I am currently a graduate student at Indiana University studying Computer Science with a specialization in Artificial Intelligence. I completed my undergrad at IU as well, receiving a bachelors in Finance at the Kelley School of Business and a bachelors in Computer Science at the School of Informatics, Computing, and Engineering.  
 
 Here you will find all of the projects and assignments I have completed so far at Indiana University
 
