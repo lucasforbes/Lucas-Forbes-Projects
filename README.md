@@ -45,4 +45,6 @@ Spring Semester 2021
 * B551 Elements of Artificial Intelligence
 * I590 AI and the Future of Work
 
+Summer Semester 2021
+* Y790 Independent Research - Data Augmentation
 ### To view my work please click the "View Project on GitHub" link in the top right corner
