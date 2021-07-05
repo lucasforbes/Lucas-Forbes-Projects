@@ -41,6 +41,7 @@ Fall Semester 2020
 
 Spring Semester 2021
 * B505 Applied Algorithms
+* P565 Software Engineering - Course Project: https://bloom-wellness-front.herokuapp.com
 * B659 Applying Machine Learning Techniques in Computational Linguistics
 * B551 Elements of Artificial Intelligence
 * I590 AI and the Future of Work
